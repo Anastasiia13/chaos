@@ -3,3 +3,7 @@ student               student                студент
 place                 place                  место проведения мероприятия
 advertisement         ad                     объявление
 sponsor               sponsor                спонсор
+1.Playlist            |user_playlist         |list of pathes to music files
+2.Music Tag           |IDv3Tag               |Tag of the music file (signature, name, artist, album, year, description)
+3.DJ                  |user                  |data about person, who launches playlists, talks.
+4.Audio file          |music_record          |Music file
